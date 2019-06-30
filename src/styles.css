@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #EEE;
+}
+h1 {
+  color: orange;
+  font-size: 2rem;
+  border-bottom: 1px solid #aaa;
+}
+h3 {
+  color: lightskyblue;
+  font-size: 1.5rem;
+}
+fa-icon {
+  color: lightslategray
+}
+header h1 {
+  color: #444;
+  border: none;
+  margin-top: 15px;
+}
+div.day-container {
+  padding: 15px 15px 15px 0;
+  border: 1px solid #AAA;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  background-color: #fff;
+}
+figure {
+  padding: 20px;
+
+}
+svg.svg-inline--fa.fa-pull-right {
+  margin: 0; 
+}
